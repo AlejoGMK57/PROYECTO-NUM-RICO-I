@@ -1,5 +1,5 @@
 streamlit
-scipy
 sympy
 kaleido ==0.1.*
 plotly
+scipy==1.10.1
