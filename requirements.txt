@@ -1,0 +1,5 @@
+streamlit
+scipy
+sympy
+kaleido ==0.1.*
+plotly
