@@ -2,7 +2,7 @@
 
 **Proyecto de la Clase de Analisis Numerico**
 
-Pagina del proyecto: https://cwroqdtvt2mopjjtapptuj2.streamlit.app
+Pagina del proyecto: https://proyectonum1.streamlit.app/
 
 En el proyecto estan implementados varios metodos numericos vistos en clase y desplegados en una interfaz de streamlit con Python.
 
